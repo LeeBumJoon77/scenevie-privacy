@@ -1,0 +1,24 @@
+[
+  {
+    "id": "2026-09-17-welcome",
+    "date": "2026-09-17",
+    "title": {
+      "ko": "Scenevie를 시작합니다",
+      "en": "Welcome to Scenevie",
+      "ja": "Scenevieへようこそ",
+      "zh": "欢迎使用 Scenevie",
+      "zhTW": "歡迎使用 Scenevie",
+      "es": "Bienvenido a Scenevie",
+      "fr": "Bienvenue dans Scenevie"
+    },
+    "body": {
+      "ko": "순간을 액자에 담고, 모인 장면을 옛 영화 필름처럼 상영하는 일기장입니다. 업데이트 소식과 고친 내용은 이곳에서 알려 드릴게요.",
+      "en": "A journal that frames your moments and plays them back like old film. Updates and fixes will be posted here.",
+      "ja": "瞬間を額に収め、集まったシーンを古い映画のように上映する日記帳です。アップデートや修正のお知らせはここに掲載します。",
+      "zh": "把瞬间装进相框，把积累的场景像老电影一样放映的日记。更新和修复的消息会在这里发布。",
+      "zhTW": "把瞬間裝進相框，把累積的場景像老電影一樣放映的日記。更新和修復的消息會在這裡發布。",
+      "es": "Un diario que enmarca tus momentos y los proyecta como una película antigua. Las novedades y correcciones se publicarán aquí.",
+      "fr": "Un journal qui encadre vos instants et les projette comme un vieux film. Les nouveautés et corrections seront publiées ici."
+    }
+  }
+]
