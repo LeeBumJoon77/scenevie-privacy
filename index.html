@@ -1,2 +1,92 @@
 <!DOCTYPE html>
-<html lang="ko"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=support.html"><title>Scenevie</title></head><body><a href="support.html">Scenevie</a></body></html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scenevie</title>
+<meta name="description" content="A retro photo diary, one scene a day">
+<meta property="og:title" content="Scenevie">
+<meta property="og:description" content="A retro photo diary, one scene a day">
+<meta property="og:image" content="assets/icon.png">
+<style>
+  :root { --a: #C9674A; --ink: #33302C; --sub: #6F675E; --card: rgba(255,255,255,.72); }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+         color: var(--ink); background: linear-gradient(170deg, #F8EFE3 0%, #EDDCE4 100%); min-height: 100vh; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 26px 20px 72px; }
+  .langbar { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; margin-bottom: 18px; }
+  .langbar button { border: 0; background: var(--card); color: var(--sub); border-radius: 999px;
+                     padding: 6px 12px; font-size: .82rem; cursor: pointer; }
+  .langbar button[aria-pressed="true"] { background: var(--a); color: #fff; font-weight: 700; }
+  header { text-align: center; }
+  .icon { width: 132px; height: 132px; border-radius: 30px; box-shadow: 0 12px 30px rgba(40,30,20,.18); }
+  h1 { font-size: 2.3rem; margin: 22px 0 10px; letter-spacing: -0.5px; }
+  .tag { font-size: 1.12rem; color: var(--sub); margin: 0 auto 26px; max-width: 30em; line-height: 1.5; }
+  .cta { display: inline-block; background: var(--a); color: #fff; text-decoration: none; font-weight: 700;
+          padding: 15px 34px; border-radius: 999px; box-shadow: 0 8px 20px rgba(40,30,20,.16); }
+  .cta:hover { filter: brightness(1.06); }
+  .shots { display: flex; gap: 16px; overflow-x: auto; padding: 44px 4px 8px; scroll-snap-type: x mandatory; }
+  .shots img { width: 250px; flex: 0 0 auto; border-radius: 18px; box-shadow: 0 10px 26px rgba(40,30,20,.16); scroll-snap-align: center; background: #fff; }
+  .feats { display: grid; gap: 14px; margin-top: 40px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  .feat { background: var(--card); border-radius: 20px; padding: 22px 20px; }
+  .feat h3 { margin: 0 0 8px; font-size: 1.05rem; }
+  .feat p { margin: 0; color: var(--sub); font-size: .96rem; line-height: 1.55; }
+  .note { text-align: center; margin-top: 30px; color: var(--sub); font-size: .88rem; }
+  footer { margin-top: 42px; text-align: center; color: var(--sub); font-size: .9rem; line-height: 1.9; }
+  footer a { color: var(--a); text-decoration: none; margin: 0 10px; font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="langbar"><button type="button" data-lang="en">English</button><button type="button" data-lang="ko">한국어</button><button type="button" data-lang="ja">日本語</button><button type="button" data-lang="zh-Hans">简体</button><button type="button" data-lang="zh-Hant">繁體</button><button type="button" data-lang="es">Español</button><button type="button" data-lang="fr">Français</button></nav>
+  <header>
+    <img class="icon" src="assets/icon.png" alt="Scenevie">
+    <h1>Scenevie</h1>
+    <p class="tag" data-en="A retro photo diary, one scene a day" data-ko="하루 한 장면, 레트로 사진 일기장" data-ja="1日1シーン、レトロなフォト日記" data-zh-Hans="每天一个画面的复古照片日记" data-zh-Hant="每天一個畫面的復古照片日記" data-es="Un diario de fotos retro, una escena al día" data-fr="Un journal photo rétro, une scène par jour">A retro photo diary, one scene a day</p>
+    <a class="cta" href="https://apps.apple.com/app/id6813959960" data-en="Get it on the App Store" data-ko="App Store에서 받기" data-ja="App Storeで入手" data-zh-Hans="在 App Store 下载" data-zh-Hant="在 App Store 下載" data-es="Consíguela en el App Store" data-fr="Télécharger sur l&#x27;App Store">Get it on the App Store</a>
+  </header>
+  <div class="shots"><img src="assets/shot1-en.jpg" alt="Scenevie" loading="lazy" data-src-en="assets/shot1-en.jpg" data-src-ko="assets/shot1-ko.jpg" data-src-ja="assets/shot1-ja.jpg" data-src-zh-Hans="assets/shot1-zh-Hans.jpg" data-src-zh-Hant="assets/shot1-zh-Hant.jpg" data-src-es="assets/shot1-es.jpg" data-src-fr="assets/shot1-fr.jpg"><img src="assets/shot2-en.jpg" alt="Scenevie" loading="lazy" data-src-en="assets/shot2-en.jpg" data-src-ko="assets/shot2-ko.jpg" data-src-ja="assets/shot2-ja.jpg" data-src-zh-Hans="assets/shot2-zh-Hans.jpg" data-src-zh-Hant="assets/shot2-zh-Hant.jpg" data-src-es="assets/shot2-es.jpg" data-src-fr="assets/shot2-fr.jpg"><img src="assets/shot3-en.jpg" alt="Scenevie" loading="lazy" data-src-en="assets/shot3-en.jpg" data-src-ko="assets/shot3-ko.jpg" data-src-ja="assets/shot3-ja.jpg" data-src-zh-Hans="assets/shot3-zh-Hans.jpg" data-src-zh-Hant="assets/shot3-zh-Hant.jpg" data-src-es="assets/shot3-es.jpg" data-src-fr="assets/shot3-fr.jpg"></div>
+  <div class="feats"><div class="feat"><h3 data-en="A retro photo diary" data-ko="레트로 사진 일기장" data-ja="レトロなフォト日記" data-zh-Hans="复古照片日记" data-zh-Hant="復古照片日記" data-es="Un diario de fotos retro" data-fr="Un journal photo rétro">A retro photo diary</h3><p data-en="One scene a day, framed like an old film photo" data-ko="하루 한 장면을 옛날 필름 사진처럼" data-ja="1日1シーンを、昔のフィルム写真のように" data-zh-Hans="每天一个画面，像老胶片照片一样" data-zh-Hant="每天一個畫面，像老底片照片一樣" data-es="Una escena al día, enmarcada como una vieja foto de carrete" data-fr="Une scène par jour, encadrée comme une vieille photo argentique">One scene a day, framed like an old film photo</p></div><div class="feat"><h3 data-en="Your days, kept like film" data-ko="필름처럼 남는 나의 하루" data-ja="フィルムのように
+残る毎日" data-zh-Hans="像胶片一样留住每一天" data-zh-Hant="像底片一樣留住每一天" data-es="Tus días, guardados como película" data-fr="Vos jours, gardés comme sur pellicule">Your days, kept like film</h3><p data-en="Browse your scenes by list, calendar or roll" data-ko="목록, 달력, 필름 롤로 장면을 넘겨 보세요" data-ja="リスト、カレンダー、フィルムロールで振り返る" data-zh-Hans="用列表、日历或胶卷翻看你的画面" data-zh-Hant="用清單、月曆或底片翻看你的畫面" data-es="Explora tus escenas en lista, calendario o carrete" data-fr="Parcourez vos scènes en liste, calendrier ou pellicule">Browse your scenes by list, calendar or roll</p></div><div class="feat"><h3 data-en="Play your days as a film" data-ko="나의 하루를 영화처럼" data-ja="毎日を映画のように上映" data-zh-Hans="把日子放成一部电影" data-zh-Hant="把日子放成一部電影" data-es="Proyecta tus días como una película" data-fr="Projetez vos jours comme un film">Play your days as a film</h3><p data-en="Watch your scenes like a movie, or save it as a video" data-ko="장면을 이어 상영하고 영상으로 저장해요" data-ja="シーンをつないで上映、動画として保存も" data-zh-Hans="连续放映你的画面，还能存成视频" data-zh-Hant="連續放映你的畫面，還能存成影片" data-es="Mira tus escenas como un filme o guárdalo en vídeo" data-fr="Regardez vos scènes comme un film ou enregistrez une vidéo">Watch your scenes like a movie, or save it as a video</p></div></div>
+  <p class="note" data-en="Free, with ads. No account needed." data-ko="무료이며 광고가 있습니다. 계정이 필요 없습니다." data-ja="無料（広告あり）。アカウントは不要です。" data-zh-Hans="免费，含广告。无需注册账号。" data-zh-Hant="免費，含廣告。無需註冊帳號。" data-es="Gratis, con anuncios. Sin cuenta." data-fr="Gratuit, avec publicités. Sans compte.">Free, with ads. No account needed.</p>
+  <footer>
+    <a href="privacy.html" data-en="Privacy Policy" data-ko="개인정보처리방침" data-ja="プライバシーポリシー" data-zh-Hans="隐私政策" data-zh-Hant="隱私權政策" data-es="Política de privacidad" data-fr="Politique de confidentialité">Privacy Policy</a>
+    <a href="support.html" data-en="Support" data-ko="고객 지원" data-ja="サポート" data-zh-Hans="支持" data-zh-Hant="支援" data-es="Soporte" data-fr="Assistance">Support</a>
+    <a href="https://apps.apple.com/developer/bumjoon-lee/id6801095554" data-en="More apps" data-ko="다른 앱 보기" data-ja="ほかのアプリ" data-zh-Hans="更多应用" data-zh-Hant="更多App" data-es="Más apps" data-fr="Autres apps">More apps</a>
+    <div style="margin-top:14px">Bumjoon Lee &middot; mall77@naver.com<br>&copy; 2026 Bumjoon Lee</div>
+  </footer>
+</div>
+<script>
+  var LANGS = ["en", "ko", "ja", "zh-Hans", "zh-Hant", "es", "fr"];
+  function apply(lang) {
+    document.documentElement.lang = lang;
+    document.querySelectorAll(".shots img").forEach(function (im) {
+      var v = im.getAttribute("data-src-" + lang) || im.getAttribute("data-src-en");
+      if (v) im.src = v;
+    });
+    document.querySelectorAll("[data-en]").forEach(function (el) {
+      var v = el.getAttribute("data-" + lang) || el.getAttribute("data-en");
+      if (v) el.textContent = v;
+    });
+    document.querySelectorAll(".langbar button").forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.lang === lang ? "true" : "false");
+    });
+    try { localStorage.setItem("lang", lang); } catch (e) {}
+  }
+  function detect() {
+    try { var s = localStorage.getItem("lang"); if (s && LANGS.indexOf(s) >= 0) return s; } catch (e) {}
+    var n = (navigator.language || "en").toLowerCase();
+    if (n.indexOf("ko") === 0) return "ko";
+    if (n.indexOf("ja") === 0) return "ja";
+    if (n.indexOf("zh") === 0) return (n.indexOf("tw") > 0 || n.indexOf("hk") > 0 || n.indexOf("hant") > 0) ? "zh-Hant" : "zh-Hans";
+    if (n.indexOf("es") === 0) return "es";
+    if (n.indexOf("fr") === 0) return "fr";
+    return "en";
+  }
+  document.querySelectorAll(".langbar button").forEach(function (b) {
+    b.addEventListener("click", function () { apply(b.dataset.lang); });
+  });
+  apply(detect());
+</script>
+</body>
+</html>
