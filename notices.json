@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-rating",
+    "date": "2026-09-26",
+    "title": {
+      "ko": "1.0.1 업데이트: App Store 평가",
+      "en": "1.0.1 update: App Store ratings",
+      "ja": "1.0.1 アップデート：App Storeでの評価",
+      "zh": "1.0.1 更新：App Store 评分",
+      "zhTW": "1.0.1 更新：App Store 評分",
+      "es": "Actualización 1.0.1: valoraciones en la App Store",
+      "fr": "Mise à jour 1.0.1 : notes sur l'App Store"
+    },
+    "body": {
+      "ko": "설정에 App Store에서 평가하기가 생겼어요. 앱을 쓰다 보면 가끔 별점을 남겨 달라는 작은 창이 뜰 수 있어요. 남겨 주시는 평가 하나하나가 큰 힘이 돼요. 원하지 않으면 그냥 닫으시면 돼요.",
+      "en": "Settings now has Rate on the App Store. Now and then, a small window may ask you to leave a rating while you use the app. Every rating helps a lot. If you'd rather not, just close it.",
+      "ja": "設定に「App Storeで評価する」が加わりました。使っているうちに、ときどき評価をお願いする小さな画面が出ることがあります。いただく評価ひとつひとつが大きな励みになります。不要なときはそのまま閉じてください。",
+      "zh": "设置中新增了“在 App Store 评分”。使用过程中偶尔会出现请您评分的小窗口。您的每一个评分都是很大的鼓励。不想评分时直接关闭即可。",
+      "zhTW": "設定中新增了「在 App Store 評分」。使用過程中偶爾會出現請您評分的小視窗。您的每一個評分都是很大的鼓勵。不想評分時直接關閉即可。",
+      "es": "En Ajustes ahora está Valorar en la App Store. De vez en cuando puede aparecer una pequeña ventana pidiendo una valoración. Cada valoración ayuda muchísimo. Si prefiere no hacerlo, simplemente ciérrela.",
+      "fr": "Réglages propose maintenant Noter sur l'App Store. De temps en temps, une petite fenêtre peut vous demander une note pendant l'utilisation. Chaque note aide énormément. Si vous préférez ne pas noter, fermez-la simplement."
+    }
+  },
+  {
     "id": "2026-09-17-welcome",
     "date": "2026-09-17",
     "title": {
