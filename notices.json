@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-tap",
+    "date": "2026-10",
+    "title": {
+      "ko": "1.0.2 업데이트: 누르기 편한 버튼",
+      "en": "1.0.2 update: easier-to-tap buttons",
+      "ja": "1.0.2 アップデート：押しやすいボタン",
+      "zh": "1.0.2 更新：更好点按的按钮",
+      "zhTW": "1.0.2 更新：更好點按的按鈕",
+      "es": "Actualización 1.0.2: botones más fáciles de pulsar",
+      "fr": "Mise à jour 1.0.2 : des boutons plus faciles à toucher"
+    },
+    "body": {
+      "ko": "사진을 꾸미는 화면의 다시 찍기와 저장 버튼, 위치 설정 열기 버튼이 글자 부분만 눌려 가끔 안 눌리던 문제를 고쳤어요.",
+      "en": "On the screen where you decorate a photo, the Retake and Save buttons and the Open Settings button for location only responded on the text and sometimes missed a tap. That is fixed.",
+      "ja": "写真を仕上げる画面の「撮り直す」と「保存」ボタン、位置情報の設定を開くボタンが文字の部分しか反応せず、ときどき押せない問題を直しました。",
+      "zh": "修复了装饰照片画面中的重拍、保存按钮以及打开定位设置按钮只有点到文字才有反应、偶尔点不到的问题。",
+      "zhTW": "修正了裝飾照片畫面中的重拍、儲存按鈕以及開啟定位設定按鈕只有點到文字才有反應、偶爾點不到的問題。",
+      "es": "En la pantalla para decorar la foto, los botones Repetir y Guardar y el de abrir los ajustes de ubicación solo respondían sobre el texto y a veces no se pulsaban. Ya está corregido.",
+      "fr": "Sur l'écran de décoration de la photo, les boutons Reprendre et Enregistrer et le bouton d'ouverture des réglages de localisation ne réagissaient que sur le texte et manquaient parfois. C'est corrigé."
+    }
+  },
+  {
     "id": "2026-10-rating",
     "date": "2026-09-26",
     "title": {
