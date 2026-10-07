@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-05-103",
+    "date": "2026-10-05",
+    "title": {
+      "ko": "1.0.3 업데이트: 광고 동의와 작은 수정들",
+      "en": "1.0.3 update: ad consent and small fixes",
+      "ja": "1.0.3 アップデート：広告の同意と小さな修正",
+      "zh": "1.0.3 更新：广告同意与一些小修复",
+      "zhTW": "1.0.3 更新：廣告同意與一些小修正",
+      "es": "Actualización 1.0.3: consentimiento de anuncios y pequeños arreglos",
+      "fr": "Mise à jour 1.0.3 : consentement publicitaire et petites corrections"
+    },
+    "body": {
+      "ko": "유럽 지역에서는 처음 켤 때 광고 동의를 묻고, 설정의 광고 개인정보 설정에서 언제든 다시 고를 수 있어요.\n\n사진첩 권한이 없을 때 광고를 다 본 뒤에야 저장할 수 없다고 알리던 문제를 고쳤어요. 이제 광고보다 먼저 확인해요.\n\n동영상이나 밀착 인화지를 저장할 때 광고가 아직 준비되지 않았으면 5초까지 잠깐 기다려요. 그래도 없으면 광고 없이 바로 저장돼요.\n\n저장을 빠르게 두 번 누르면 같은 장면이 두 장 생기던 문제를 고쳤어요.\n\n앱을 켜 둔 채 자정이 지나면 홈의 날짜가 어제로 남던 문제를 고쳤어요.\n\n작은 버튼들의 누르는 영역을 넓혔어요.",
+      "en": "In Europe the app now asks for your ad consent on first launch, and you can change it any time under Ad Privacy Settings in Settings.\n\nIf Photos access was off, the app only told you after you had watched the whole ad. It now checks before the ad.\n\nWhen you save a video or a contact sheet and the ad is not ready yet, the app now waits up to 5 seconds. If there is still no ad, it saves right away without one.\n\nTapping Save twice quickly no longer creates the same scene twice.\n\nThe date on Home no longer stays on yesterday when the app is left open past midnight.\n\nSmall buttons now have a larger tap area.",
+      "ja": "ヨーロッパでは初回起動時に広告の同意を確認し、設定の「広告のプライバシー設定」でいつでも選び直せます。\n\n写真への追加が許可されていないとき、広告を最後まで見てから保存できないと知らされる問題を直しました。広告の前に確認します。\n\n動画やベタ焼きを保存するとき、広告の準備がまだなら最大5秒だけ待ちます。それでも広告がなければ、そのまま保存します。\n\n保存をすばやく2回押すと同じシーンが2枚できる問題を直しました。\n\nアプリを開いたまま日付が変わると、ホームの日付が前日のままになる問題を直しました。\n\n小さなボタンの押せる範囲を広げました。",
+      "zh": "在欧洲地区，首次启动时会询问广告同意，并可随时在设置的“广告隐私设置”中重新选择。\n\n修复了未允许添加到相册时，看完广告才提示无法保存的问题。现在会在广告之前先检查。\n\n保存视频或印样时，如果广告尚未准备好，会最多等待5秒。仍然没有广告时，将直接保存。\n\n修复了快速连点两次保存会生成两张相同场景的问题。\n\n修复了应用一直开着过了零点后，首页日期仍停在昨天的问题。\n\n扩大了小按钮的点按范围。",
+      "zhTW": "在歐洲地區，首次啟動時會詢問廣告同意，並可隨時在設定的「廣告隱私設定」中重新選擇。\n\n修正了未允許加入相簿時，看完廣告才提示無法儲存的問題。現在會在廣告之前先檢查。\n\n儲存影片或印樣時，如果廣告尚未準備好，會最多等待5秒。仍然沒有廣告時，將直接儲存。\n\n修正了快速連點兩次儲存會產生兩張相同場景的問題。\n\n修正了 App 一直開著過了午夜後，首頁日期仍停在昨天的問題。\n\n擴大了小按鈕的點按範圍。",
+      "es": "En Europa la app pide ahora tu consentimiento para los anuncios al abrirla por primera vez, y puedes cambiarlo cuando quieras en Privacidad de anuncios, dentro de Ajustes.\n\nSi no tenías permiso para añadir a Fotos, la app solo te avisaba después de ver el anuncio entero. Ahora lo comprueba antes del anuncio.\n\nAl guardar un vídeo o una hoja de contactos, si el anuncio aún no está listo la app espera hasta 5 segundos. Si sigue sin haber anuncio, guarda directamente sin él.\n\nPulsar Guardar dos veces seguidas ya no crea la misma escena dos veces.\n\nLa fecha de Inicio ya no se queda en ayer si dejas la app abierta pasada la medianoche.\n\nLos botones pequeños tienen ahora una zona de pulsación más amplia.",
+      "fr": "En Europe, l'app demande désormais votre consentement publicitaire au premier lancement, et vous pouvez le modifier à tout moment dans Confidentialité des publicités, dans Réglages.\n\nSi l'ajout à Photos n'était pas autorisé, l'app ne vous prévenait qu'après la publicité entière. Elle vérifie maintenant avant la publicité.\n\nQuand vous enregistrez une vidéo ou une planche-contact et que la publicité n'est pas encore prête, l'app attend jusqu'à 5 secondes. S'il n'y en a toujours pas, elle enregistre directement sans publicité.\n\nToucher Enregistrer deux fois de suite ne crée plus la même scène en double.\n\nLa date de l'Accueil ne reste plus sur la veille quand l'app reste ouverte après minuit.\n\nLes petits boutons ont maintenant une zone tactile plus large."
+    }
+  },
+  {
     "id": "2026-10-tap",
     "date": "2026-10",
     "title": {
