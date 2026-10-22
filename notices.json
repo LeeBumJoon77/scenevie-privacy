@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-22-104",
+    "date": "2026-10-22",
+    "title": {
+      "ko": "1.0.4 업데이트: 광고 회사 변경",
+      "en": "Update 1.0.4: new ad provider",
+      "ja": "1.0.4 アップデート：広告会社の変更",
+      "zh": "1.0.4 更新：更换广告服务商",
+      "zhTW": "1.0.4 更新：更換廣告服務商",
+      "es": "Actualización 1.0.4: nuevo proveedor de anuncios",
+      "fr": "Mise à jour 1.0.4 : nouveau fournisseur de publicités"
+    },
+    "body": {
+      "ko": "광고를 Google AdMob 대신 Unity Ads에서 받아 와요. 광고가 나오는 자리와 횟수, 보상은 그대로예요. 유럽 경제 지역, 영국, 스위스에서는 맞춤형이 아닌 광고만 나오므로 처음 열 때 나오던 광고 동의 창과 설정의 광고 개인정보 설정 줄이 없어졌어요.",
+      "en": "Ads now come from Unity Ads instead of Google AdMob. Where and how often ads appear, and their rewards, stay the same. In the European Economic Area, the UK and Switzerland only non-personalized ads are shown, so the consent form at first launch and the ad privacy settings row in Settings are gone.",
+      "ja": "広告を Google AdMob ではなく Unity Ads から受け取るようにしました。広告の場所と回数、報酬は変わりません。欧州経済領域・英国・スイスではパーソナライズされていない広告のみになるため、初回起動時の広告同意画面と設定の広告プライバシー設定はなくなりました。",
+      "zh": "广告改为由 Unity Ads 提供，不再使用 Google AdMob。广告的位置、次数和奖励都不变。在欧洲经济区、英国和瑞士只显示非个性化广告，因此首次打开时的广告同意窗口和设置中的广告隐私设置已移除。",
+      "zhTW": "廣告改由 Unity Ads 提供，不再使用 Google AdMob。廣告的位置、次數和獎勵都不變。在歐洲經濟區、英國和瑞士只顯示非個人化廣告，因此首次開啟時的廣告同意視窗和設定中的廣告隱私權設定已移除。",
+      "es": "Los anuncios ahora vienen de Unity Ads en lugar de Google AdMob. Dónde y con qué frecuencia aparecen, y sus recompensas, no cambian. En el Espacio Económico Europeo, el Reino Unido y Suiza solo se muestran anuncios no personalizados, así que ya no aparecen el aviso de consentimiento al abrir la app ni la fila de privacidad de anuncios en Ajustes.",
+      "fr": "Les publicités viennent désormais d'Unity Ads au lieu de Google AdMob. Leur emplacement, leur fréquence et leurs récompenses ne changent pas. Dans l'Espace économique européen, au Royaume-Uni et en Suisse, seules des publicités non personnalisées sont diffusées : le formulaire de consentement au premier lancement et la ligne Confidentialité des publicités dans les Réglages disparaissent."
+    }
+  },
+  {
     "id": "2026-10-05-103",
     "date": "2026-10-05",
     "title": {
