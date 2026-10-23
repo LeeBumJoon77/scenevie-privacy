@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-10-23-105",
+    "date": "2026-10-23",
+    "title": {
+      "ko": "1.0.5 업데이트: 넓은 화면",
+      "en": "Update 1.0.5: wide screens",
+      "ja": "1.0.5 アップデート：広い画面",
+      "zh": "1.0.5 更新：宽屏幕",
+      "zhTW": "1.0.5 更新：寬螢幕",
+      "es": "Actualización 1.0.5: pantallas anchas",
+      "fr": "Mise à jour 1.0.5 : grands écrans"
+    },
+    "body": {
+      "ko": "iPhone Duo를 펼친 화면처럼 넓은 화면에서는 앱이 가운데 한 단으로 모여서 글과 버튼이 알맞은 크기로 보여요. 일반 아이폰과 접은 화면에서는 달라지는 것이 없어요. 설정에 같은 개발자의 다른 앱 목록이 생겼어요.",
+      "en": "On wide screens such as an unfolded iPhone Duo, the app now sits in one centered column, so text and buttons stay at a comfortable size. Nothing changes on other iPhones or on the folded iPhone Duo. Settings now lists other apps by the same developer.",
+      "ja": "iPhone Duo を開いたときのような広い画面では、アプリが中央の1列にまとまり、文字やボタンがちょうどよい大きさで表示されます。ふつうの iPhone や閉じた画面では何も変わりません。 設定に同じ開発者のほかのアプリの一覧を追加しました。",
+      "zh": "在像展开的 iPhone Duo 这样的宽屏幕上，应用会集中在居中的一栏，文字和按钮保持合适的大小。在普通 iPhone 和合上的屏幕上没有变化。 设置中新增了同一开发者的其他应用列表。",
+      "zhTW": "在像展開的 iPhone Duo 這樣的寬螢幕上，App 會集中在置中的一欄，文字和按鈕維持合適的大小。在一般 iPhone 和闔上的螢幕上沒有變化。 設定中新增了同一開發者的其他 App 列表。",
+      "es": "En pantallas anchas, como un iPhone Duo desplegado, la app ahora va en una sola columna centrada, así que el texto y los botones se ven a un tamaño cómodo. En otros iPhone y en el iPhone Duo plegado no cambia nada. Los ajustes ahora muestran otras apps del mismo desarrollador.",
+      "fr": "Sur les grands écrans, comme un iPhone Duo déplié, l'app tient désormais dans une seule colonne centrée : textes et boutons gardent une taille confortable. Rien ne change sur les autres iPhone ni sur l'iPhone Duo plié. Les réglages affichent maintenant les autres apps du même développeur."
+    }
+  },
+  {
     "id": "2026-10-22-104",
     "date": "2026-10-22",
     "title": {
