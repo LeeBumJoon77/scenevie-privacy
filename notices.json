@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-09-110",
+    "date": "2026-11-09",
+    "title": {
+      "ko": "1.1 업데이트: 아이패드, 독일어·이탈리아어",
+      "en": "Update 1.1: iPad, German and Italian",
+      "ja": "1.1 アップデート：iPad、ドイツ語・イタリア語",
+      "zh": "1.1 更新：iPad、德语和意大利语",
+      "zhTW": "1.1 更新：iPad、德語和義大利語",
+      "es": "Actualización 1.1: iPad, alemán e italiano",
+      "fr": "Mise à jour 1.1 : iPad, allemand et italien",
+      "de": "Update 1.1: iPad, Deutsch und Italienisch",
+      "it": "Aggiornamento 1.1: iPad, tedesco e italiano"
+    },
+    "body": {
+      "ko": "이제 아이패드 화면 전체를 써요. 액자와 사진, 카드가 크게 보이고 가로로 돌려도 쓸 수 있어요. 독일어와 이탈리아어가 추가되어 아홉 개 언어를 쓸 수 있어요. 설정의 다른 앱 목록에 Kibblo와 Plusday를 더했어요.",
+      "en": "Scenevie now uses the whole iPad screen. Frames, photos and cards show larger, and you can turn the iPad sideways. German and Italian are here, so the app speaks nine languages. Kibblo and Plusday joined the list of other apps in Settings.",
+      "ja": "iPad の画面全体を使うようになりました。額縁や写真、カードが大きく表示され、横向きでも使えます。ドイツ語とイタリア語を追加し、9つの言語に対応しました。設定のほかのアプリ一覧に Kibblo と Plusday を加えました。",
+      "zh": "现在会使用 iPad 的整个屏幕。相框、照片和卡片显示得更大，横屏也能使用。新增德语和意大利语，共支持九种语言。设置中的其他应用列表新增了 Kibblo 和 Plusday。",
+      "zhTW": "現在會使用 iPad 的整個螢幕。相框、照片和卡片顯示得更大，橫向也能使用。新增德語和義大利語，共支援九種語言。設定中的其他 App 列表新增了 Kibblo 和 Plusday。",
+      "es": "Ahora la app usa toda la pantalla del iPad. Los marcos, las fotos y las tarjetas se ven más grandes, y puedes girar el iPad en horizontal. Llegan el alemán y el italiano, así que la app habla nueve idiomas. Kibblo y Plusday se suman a la lista de otras apps en Ajustes.",
+      "fr": "L'app occupe désormais tout l'écran de l'iPad. Cadres, photos et cartes s'affichent en plus grand, et vous pouvez tourner l'iPad à l'horizontale. L'allemand et l'italien arrivent : l'app parle neuf langues. Kibblo et Plusday rejoignent la liste des autres apps dans Réglages.",
+      "de": "Scenevie nutzt jetzt den ganzen iPad-Bildschirm. Rahmen, Fotos und Karten erscheinen größer, und du kannst das iPad auch quer halten. Deutsch und Italienisch sind neu, die App spricht jetzt neun Sprachen. Kibblo und Plusday stehen neu in der Liste weiterer Apps in den Einstellungen.",
+      "it": "Scenevie ora usa tutto lo schermo dell'iPad. Cornici, foto e schede si vedono più grandi e puoi girare l'iPad in orizzontale. Arrivano il tedesco e l'italiano: l'app parla nove lingue. Kibblo e Plusday si aggiungono all'elenco delle altre app nelle Impostazioni."
+    }
+  },
+  {
     "id": "2026-10-23-105",
     "date": "2026-10-23",
     "title": {
