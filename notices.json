@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-23-111",
+    "date": "2026-11-23",
+    "title": {
+      "ko": "1.1.1 업데이트: 매일 알림",
+      "en": "Update 1.1.1: daily reminder",
+      "ja": "1.1.1 アップデート：毎日の通知",
+      "zh": "1.1.1 更新：每日提醒",
+      "zhTW": "1.1.1 更新：每日提醒",
+      "es": "Actualización 1.1.1: recordatorio diario",
+      "fr": "Mise à jour 1.1.1 : rappel quotidien",
+      "de": "Update 1.1.1: tägliche Erinnerung",
+      "it": "Aggiornamento 1.1.1: promemoria giornaliero"
+    },
+    "body": {
+      "ko": "하루 한 번 정한 시각에 오늘의 한 장면을 남기라고 알려 드려요. 그날 이미 남겼으면 울리지 않아요. 설정의 매일 알림에서 켜고 시각을 고를 수 있어요. VoiceOver로 사진 위 글 옮기기, 사진 맞추기, 상영 필름 멈추기와 넘기기를 할 수 있고, 작은 단추의 누르는 곳을 넓혔어요.",
+      "en": "Once a day, at the time you choose, Scenevie reminds you to keep a scene from today. If you've already kept one, it stays quiet. Turn it on and pick the time under Daily reminder in Settings. With VoiceOver you can now move text on a photo, adjust a photo, and stop or step through the screening film, and small buttons are easier to tap.",
+      "ja": "1日1回、決めた時刻に今日のシーンを残すようお知らせします。その日すでに残していれば鳴りません。設定の「毎日の通知」でオンにして時刻を選べます。VoiceOver で写真の上の文字の移動、写真の位置合わせ、上映フィルムの停止とシーン送りができるようになり、小さなボタンも押しやすくしました。",
+      "zh": "每天在你设定的时间提醒你留下今天的场景。当天已经留下就不会提醒。可在设置的“每日提醒”中开启并选择时间。现在可以用 VoiceOver 移动照片上的文字、调整照片、停止放映胶片和切换场景，小按钮也更容易点按了。",
+      "zhTW": "每天在你設定的時間提醒你留下今天的場景。當天已經留下就不會提醒。可在設定的「每日提醒」中開啟並選擇時間。現在可以用 VoiceOver 移動照片上的文字、調整照片、停止放映底片和切換場景，小按鈕也更容易點按了。",
+      "es": "Una vez al día, a la hora que elijas, Scenevie te recuerda guardar una escena del día. Si ya la guardaste, no suena. Actívalo y elige la hora en Recordatorio diario, en Ajustes. Con VoiceOver ahora puedes mover el texto sobre la foto, ajustar la foto y detener o recorrer la película de la proyección, y los botones pequeños son más fáciles de tocar.",
+      "fr": "Une fois par jour, à l'heure choisie, Scenevie vous rappelle de garder une scène de la journée. Si c'est déjà fait, il reste silencieux. Activez-le et choisissez l'heure dans Rappel quotidien, dans Réglages. Avec VoiceOver, vous pouvez maintenant déplacer le texte sur la photo, ajuster la photo, arrêter la pellicule de la projection ou passer d'une scène à l'autre, et les petits boutons sont plus faciles à toucher.",
+      "de": "Einmal am Tag zur gewählten Uhrzeit erinnert dich Scenevie daran, eine Szene des Tages festzuhalten. Hast du das schon getan, bleibt es still. Einschalten und Uhrzeit wählen kannst du unter Tägliche Erinnerung in den Einstellungen. Mit VoiceOver kannst du jetzt Text auf dem Foto verschieben, das Foto anpassen und den Film der Vorführung anhalten oder Szene für Szene durchgehen. Kleine Tasten sind leichter zu treffen.",
+      "it": "Una volta al giorno, all'ora che scegli, Scenevie ti ricorda di conservare una scena della giornata. Se l'hai già fatto, resta in silenzio. Attivalo e scegli l'ora in Promemoria giornaliero, nelle Impostazioni. Con VoiceOver ora puoi spostare il testo sulla foto, regolare la foto e fermare o scorrere la pellicola della proiezione, e i pulsanti piccoli sono più facili da toccare."
+    }
+  },
+  {
     "id": "2026-11-09-110",
     "date": "2026-11-09",
     "title": {
